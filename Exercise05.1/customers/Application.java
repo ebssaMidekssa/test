@@ -12,5 +12,6 @@ public class Application {
 
 		customerService.addCustomer("Frank Brown", "fbrown@acme.com",
 				"mainstreet 5", "Chicago", "60613");
+		
 	}
 }
